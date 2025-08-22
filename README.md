@@ -27,7 +27,7 @@
 ## 🧠 Skills & Technologies
 
 ### 🖥️ Frontend
-- **Vue.js** (Composition API, Vuex, Pinia, Vue Router)
+- **Vue.js** (Composition API, Vuex, Pinia, Vue Router, Axios)
 - **UI Frameworks:** PrimeVue, PrimeFlex
 - HTML, CSS, JavaScript
 
